@@ -17,7 +17,7 @@ Please do not report security vulnerabilities through public GitHub issues. Cont
 ## Connect With Us
 
 - **Website:** [phxholdings.com](https://phxholdings.com)
-- **LinkedIn:** [Company LinkedIn](https://www.linkedin.com/company/phx-holdings)
+- **LinkedIn:** [PHX Holdings LinkedIn](https://www.linkedin.com/company/phx-holdings)
 
 ---
 
